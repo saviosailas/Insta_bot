@@ -6,3 +6,6 @@ chromedriver
 
 #pyc file
 __pycache__/
+
+#user data
+data/
