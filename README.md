@@ -16,3 +16,11 @@ Insta_bot is a analytics tool designed for social media influencer. It will help
 1. chrome/chomium web browser
 2. python 3.x
 3. chome driver - <a href="https://chromedriver.chromium.org/downloads"> Download from this link</a> 
+
+### Setup guide
+
+```
+python3 -m pip install -r requrements.txt
+python3 InstaBot.py
+
+```
