@@ -7,7 +7,7 @@ import time, os
 class Bot:
     def __init__(self):
         self.chrome_options = Options()
-        self.chrome_options.add_argument('user-data-dir=cleaaaaasfascasdfczafsd'+os.path.join(os.getcwd(),'chrome-data'))
+        self.chrome_options.add_argument('user-data-dir='os.path.join(os.getcwd(),'chrome-data'))
         self.chrome_options.add_argument('profile-directory=Default')
         self.chrome_options.add_argument('--disable-setuid-sandbox')
         self.chrome_options.add_argument('-no-sandbox')
