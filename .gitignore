@@ -9,3 +9,6 @@ __pycache__/
 
 #user data
 data/
+
+#build
+*.pyc
