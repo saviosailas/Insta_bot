@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
-from Botfile.KeyChain import userName, password
+from Instabot.KeyChain import userName, password
 import time, os
 
 class Bot:
