@@ -37,7 +37,8 @@ Insta_bot is a analytics tool designed for social media influencer. It will help
 5. Install requirements
   ```python3 -m pip install -r requrements.txt```
 6. Add your user name and password in <a href="Instabot/KeyChain.py">Keychain.py</a>
-  eg:
+
+   eg:
   ``` 
   userName = "Your_User_Name"
   password = "Your_Password"
